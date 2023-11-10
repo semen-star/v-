@@ -1,2 +1,3 @@
 ﻿  V++.cpp
-  V++.vcxproj -> C:\Projects\MyProj\v-plus-plus\x64\Debug\V++.exe
+C:\Users\winpx\Desktop\temp\v-plus-plus\V++\V++.h(80,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  V++.vcxproj -> C:\Users\winpx\Desktop\temp\v-plus-plus\x64\Debug\V++.exe
