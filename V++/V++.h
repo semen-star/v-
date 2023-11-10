@@ -23,6 +23,7 @@
 #define Русь std
 #define молвить cout
 #define Внедрить_Руску_Молву setlocale(LC_ALL, "Russian");
+#define Внедрить_Руску_Ввод SetConsoleCP(1251);
 #pragma endregion
 
 #pragma region Constructions
